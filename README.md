@@ -13,17 +13,21 @@ La utilización de recursos
 
 El desempeño operativo general
 
-Integrantes
+
+  Integrantes
 
 Dalia Montserrat Caballero Silva
+
 Juan Carlos Canseco Reyes
+
 Suyay Fernanda Crespo Castañón
 
 Instituto Tecnológico de Oaxaca
 Ingeniería en Sistemas Computacionales
 Materia: Simulación
 
-Objetivo del Proyecto
+
+  Objetivo del Proyecto
 
 Evaluar el impacto de distintas configuraciones operativas en cruces fronterizos mediante un modelo de simulación que permita:
 
@@ -35,7 +39,8 @@ Identificar cuellos de botella
 
 Proponer mejoras sin necesidad de intervenir físicamente la infraestructura
 
-Cruces Fronterizos Analizados
+
+  Cruces Fronterizos Analizados
 1. Colombia–Solidarity (Laredo)
 2. Otay Mesa
 3. Ysleta / El Paso
