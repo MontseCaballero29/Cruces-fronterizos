@@ -12,7 +12,8 @@ Juan Carlos Canseco Reyes
 
 Suyay Fernanda Crespo Castañón
 
-Instituto Tecnológico de Oaxaca — Ingeniería en Sistemas Computacionales
+Instituto Tecnológico de Oaxaca
+Ingeniería en Sistemas Computacionales
 Materia: Simulación
 
 Objetivo del Proyecto
